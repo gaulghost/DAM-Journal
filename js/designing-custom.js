@@ -1,0 +1,1 @@
+/* script for designing webpage has to be put here only */
