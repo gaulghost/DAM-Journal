@@ -1,1 +1,1 @@
-# DCM-Journal
+# DAM-Journal
