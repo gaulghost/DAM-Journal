@@ -1,1 +1,0 @@
-/* script for coding webpage has to be put here only */
